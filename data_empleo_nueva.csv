@@ -1,10 +1,10 @@
 name,value,year,lastValue,rank
-Empleo Adecuado/Pleno,2737158.47,2007,100,1
-Subempleo por insuficiencia de tiempo de trabajo,860315.32,2007,NA,3
-Subempleo por insuficiencia de ingresos,295556.35,2007,NA,5
-Empleo no remunerado,557146.38,2007,NA,4
-Otro Empleo no pleno,1504000.48,2007,NA,2
-Empleo no clasificado,65155.06,2007,NA,6
+Empleo Adecuado/Pleno,2737158.47,2007,0,1
+Subempleo por insuficiencia de tiempo de trabajo,860315.32,2007,0,3
+Subempleo por insuficiencia de ingresos,295556.35,2007,0,5
+Empleo no remunerado,557146.38,2007,0,4
+Otro Empleo no pleno,1504000.48,2007,0,2
+Empleo no clasificado,65155.06,2007,0,6
 Empleo Adecuado/Pleno,2858658.62,2008.5,2750595.29,1
 Subempleo por insuficiencia de tiempo de trabajo,704515.97,2008.5,846132.34,3
 Subempleo por insuficiencia de ingresos,253462.34,2008.5,284566.81,5
